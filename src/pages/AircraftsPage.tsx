@@ -5,8 +5,7 @@ export default function AircraftsPage() {
     <div className="flex flex-row h-screen w-screen">
       <NavBar />
       <div className="flex flex-col justify-center items-center w-full">
-        <h1 className="text-4xl">Hello, world!</h1>
-        <p className="text-lg">Welcome to your new app!</p>
+        <div className="flex p-2 w-full h-full"></div>
       </div>
     </div>
   );

@@ -11,7 +11,7 @@ export default function NavBar() {
             Jesensi
           </h1>
         </div>
-        <nav className="flex flex-col space-y-2 h-full text-lg px-2">
+        <nav className="flex flex-col space-y-2 h-full text-lg px-2 select-none">
           {[
             { name: "home" },
             { name: "aircrafts" },
